@@ -1,0 +1,15 @@
+C:\Users\diego.satta\Desktop\Socket\bin\Debug\Socket.exe.config
+C:\Users\diego.satta\Desktop\Socket\bin\Debug\Socket.exe
+C:\Users\diego.satta\Desktop\Socket\bin\Debug\Socket.pdb
+C:\Users\diego.satta\Desktop\Socket\obj\Debug\Socket.csprojAssemblyReference.cache
+C:\Users\diego.satta\Desktop\Socket\obj\Debug\MainWindow.g.cs
+C:\Users\diego.satta\Desktop\Socket\obj\Debug\App.g.cs
+C:\Users\diego.satta\Desktop\Socket\obj\Debug\Socket_MarkupCompile.cache
+C:\Users\diego.satta\Desktop\Socket\obj\Debug\Socket_MarkupCompile.lref
+C:\Users\diego.satta\Desktop\Socket\obj\Debug\MainWindow.baml
+C:\Users\diego.satta\Desktop\Socket\obj\Debug\Socket.g.resources
+C:\Users\diego.satta\Desktop\Socket\obj\Debug\Socket.Properties.Resources.resources
+C:\Users\diego.satta\Desktop\Socket\obj\Debug\Socket.csproj.GenerateResource.cache
+C:\Users\diego.satta\Desktop\Socket\obj\Debug\Socket.csproj.CoreCompileInputs.cache
+C:\Users\diego.satta\Desktop\Socket\obj\Debug\Socket.exe
+C:\Users\diego.satta\Desktop\Socket\obj\Debug\Socket.pdb

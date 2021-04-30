@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socket", "Socket.csproj", "{2AD50C0C-FA60-474A-9499-7B881922572B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Es_Socket", "Es_Socket.csproj", "{2AD50C0C-FA60-474A-9499-7B881922572B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Socket
+namespace Es_Socket
 {
     /// <summary>
     /// Logica di interazione per App.xaml
