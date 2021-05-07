@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Es_Socket", "Es_Socket.csproj", "{2AD50C0C-FA60-474A-9499-7B881922572B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AD50C0C-FA60-474A-9499-7B881922572B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD50C0C-FA60-474A-9499-7B881922572B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD50C0C-FA60-474A-9499-7B881922572B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD50C0C-FA60-474A-9499-7B881922572B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D25B83A9-C275-4F57-99C4-727976B2999B}
+	EndGlobalSection
+EndGlobal
